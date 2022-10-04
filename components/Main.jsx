@@ -20,7 +20,7 @@ const Main = () => {
             I&apos;m focused on building responsive front-end web applications while
             learning back-end technologies.
           </p>
-          <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
+          {/* <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
             <a
               href='https://linkedin.com/in/apurvadivakar'
               target='_blank'
@@ -49,7 +49,7 @@ const Main = () => {
                 <BsFillPersonLinesFill />
               </div>
             </a>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
