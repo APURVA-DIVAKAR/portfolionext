@@ -56,9 +56,11 @@ const Contact = () => {
                     </div>
                   </a>
 
+                  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=apurvadiwaker@gmail.com" target="_blank" rel="noopener noreferrer">
                   <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                     <AiOutlineMail />
                   </div>
+                  </a>
                   <a href='https://docs.google.com/document/d/1XV9wU-ML2HYv998wq92_HKVtvXO_TfAc-0ef4c3unxM/edit?usp=sharing'   target="_blank" rel="noopener noreferrer">
                     
                       <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
